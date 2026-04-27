@@ -1,3 +1,3 @@
 # Notas
 
-Protótipo que deduplica pedidos por chave em memória — estudo de desenho para APIs.
+Script que remove linhas antigas de um ficheiro de log acima de um limite configurável.

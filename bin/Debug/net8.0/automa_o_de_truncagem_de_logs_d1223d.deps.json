@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "automa_o_de_truncagem_de_logs_d1223d/1.0.0": {
+        "runtime": {
+          "automa_o_de_truncagem_de_logs_d1223d.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "automa_o_de_truncagem_de_logs_d1223d/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

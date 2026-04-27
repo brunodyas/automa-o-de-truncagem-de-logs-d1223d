@@ -1,0 +1,14 @@
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-d1223d\bin\Debug\net8.0\automa_o_de_truncagem_de_logs_d1223d.exe
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-d1223d\bin\Debug\net8.0\automa_o_de_truncagem_de_logs_d1223d.deps.json
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-d1223d\bin\Debug\net8.0\automa_o_de_truncagem_de_logs_d1223d.runtimeconfig.json
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-d1223d\bin\Debug\net8.0\automa_o_de_truncagem_de_logs_d1223d.dll
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-d1223d\bin\Debug\net8.0\automa_o_de_truncagem_de_logs_d1223d.pdb
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-d1223d\obj\Debug\net8.0\automa_o_de_truncagem_de_logs_d1223d.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-d1223d\obj\Debug\net8.0\automa_o_de_truncagem_de_logs_d1223d.AssemblyInfoInputs.cache
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-d1223d\obj\Debug\net8.0\automa_o_de_truncagem_de_logs_d1223d.AssemblyInfo.cs
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-d1223d\obj\Debug\net8.0\automa_o_de_truncagem_de_logs_d1223d.csproj.CoreCompileInputs.cache
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-d1223d\obj\Debug\net8.0\automa_o_de_truncagem_de_logs_d1223d.dll
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-d1223d\obj\Debug\net8.0\refint\automa_o_de_truncagem_de_logs_d1223d.dll
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-d1223d\obj\Debug\net8.0\automa_o_de_truncagem_de_logs_d1223d.pdb
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-d1223d\obj\Debug\net8.0\automa_o_de_truncagem_de_logs_d1223d.genruntimeconfig.cache
+D:\Projetos\GitAuto\workspace\automa-o-de-truncagem-de-logs-d1223d\obj\Debug\net8.0\ref\automa_o_de_truncagem_de_logs_d1223d.dll

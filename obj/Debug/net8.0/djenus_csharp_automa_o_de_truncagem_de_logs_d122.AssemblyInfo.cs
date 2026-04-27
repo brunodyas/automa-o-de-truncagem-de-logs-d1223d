@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("djenus_csharp_automa_o_de_truncagem_de_logs_d122")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1936f8de1357e31280002422d3340e32a89fc9ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88203de5b228450a1ef5731f70648227098dfc62")]
 [assembly: System.Reflection.AssemblyProductAttribute("djenus_csharp_automa_o_de_truncagem_de_logs_d122")]
 [assembly: System.Reflection.AssemblyTitleAttribute("djenus_csharp_automa_o_de_truncagem_de_logs_d122")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,3 +1,3 @@
 # Notas
 
-Script que remove linhas antigas de um ficheiro de log acima de um limite configurável.
+CLI que valida e resume em linguagem natural uma expressão cron de 5 campos.
